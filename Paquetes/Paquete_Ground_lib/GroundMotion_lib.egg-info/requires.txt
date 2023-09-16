@@ -1,0 +1,8 @@
+numpy==1.23.3
+pandas==1.5.0
+joblib==1.1.0
+matplotlib==3.5.0
+scipy==1.9.1
+tqdm==4.64.1
+mapply==0.1.16
+sklearn==0.0
